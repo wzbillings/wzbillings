@@ -1,5 +1,9 @@
-### Hi there 👋
+### WELCOME to my GitHub!
 
+* My name is Zane
+* PhD student at the University of Georgia
+* I love 😍 flu 😷 and vaccines 💉
+* Certified to distinguish between 🐻 black and grizzly bears 🐻 in the state of Montana
 <!--
 **wzbillings/wzbillings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
