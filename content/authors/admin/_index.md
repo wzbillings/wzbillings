@@ -74,4 +74,11 @@ Zane Billings is a PhD student working with Andreas Handel at the University of 
 
 Zane has participated in two REU programs, [Math-Biology at UNCG](http://www.uncg.edu/mat/bio-math/REU/people.html) and [Population Biology of Infectious Diseases at UGA](http://reu.ecology.uga.edu/). Additionally, Zane was the TA for a course on scientific computing for three semesters at WCU. He currently works in [Dr. Andreas Handel's research group](http://handelgroup.publichealth.uga.edu/). Also check out his [two sequences on the OEIS](https://oeis.org/search?q=W.+Zane+Billings&language=english&go=Search)!
 
-This website is still under construction, so expect updates!
+This website is still under construction, so expect updates! Things I am currently working on:
+
+* Updating my CV (migrating from manual TeX to data-driven Rmd)
+* Projects list
+* Fixing up a bunch of stuff that makes sense to me but is completely unreadable to everyone else
+* Exporting high-res thumbnail images
+* Revising bio and moving content around
+* Starting a BLOG!
