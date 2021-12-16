@@ -20,6 +20,8 @@ design:
     text_color_light: true
 advanced:
   css_class: fullscreen
+  
+active: false
 ---
 
 **The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**

@@ -49,10 +49,10 @@ social:
   link: https://orcid.org/0000-0002-0184-6134
 - icon: github
   icon_pack: fab
-  link: https://github.com/wz-billings
+  link: https://github.com/wzbillings
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/wz-billings/
+  link: https://www.linkedin.com/in/wzbillings/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wzbillings
