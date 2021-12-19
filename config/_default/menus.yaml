@@ -14,7 +14,7 @@ main:
     url: 'talks/'
     weight: 40
   - name: Publications
-    url: 'pub/'
+    url: 'pubs/'
     weight: 50
   - name: Other
     url: 'other/'
