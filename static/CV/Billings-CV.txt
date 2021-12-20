@@ -1,0 +1,132 @@
+CURRICULUM VITAE
+========================
+W. Zane Billings
+Last updated: 2021-09-10
+========================
+
+NOTE: my CV is prepared specifically to be ASCII-compatible in order to ensure
+maximum cross-platform readibility and compatibility.
+
+CONTACT INFO:
+* email: wesley.billings@uga.edu
+* website: https://wzbillings.com
+* github: https://github.com/wzbillings
+* mail: 121 B.S. Miller Hall,
+        101 Buck Rd,
+        Athens, GA 30602, USA
+
+PERSONAL SUMMARY: I am currently a PhD student working under Andreas Handel at
+the University of Georgia, Athens, GA, USA. In the future, I hope to continue
+doing academic research. My main research interests are in statistical methods
+(including modeling and data analytics) applied to the immunology and
+epidemiology of influenza, and my current work is on drivers of immune response
+to the seasonal influenza vaccine at the host level. More broadly, I am
+interested in the application of statistical methods to public health,
+especially in relation to viruses and vaccines. I am proficient with the R
+programming language, and write all of my analysis code in R.
+
+========================
+
+EDUCATION
+---------
+* Ph.D., Epidemiology & Biostatistics. Expected May 2024.
+  University of Georgia, Athens, GA, USA.
+  Adviser: Andreas Handel.
+* B.S., Mathematics & Biology. 2016 - 2020.
+  Western Carolina University, Cullowhee, NC, USA.
+
+AWARDS
+------
+* GREAT Fellowship, 2020 - 2025.
+  $27,000 per year for 5 years.
+  Full research funding award from the UGA Graduate School.
+
+PUBLICATIONS
+------------
+* McKay B, Ebell M, Billings WZ, Dale AP, Shen Y, Handel A.
+  Associations between relative viral load at diagnosis and influenza A
+  symptoms and recovery. Open Forum Infectious Diseases. 2020; 7(11).
+
+PRESENTATIONS
+-------------
+* Billings WZ, Ge Y, Shen Y, Skarlupka AL, Ross TM, Handel A.
+    How do pre-existing immunity and host factors interact to impact influenza
+    vaccine response? Talk presented at the NIH CIVICs 2nd annual meeting.
+    August 2021; virtual.
+* Billings WZ, Handel A.
+    Exploring the effect of host factors on the relationship between
+    pre-existing immunity and influenza vaccine response.
+    Poster presented at Ecology and Evolution of Infectious Diseases meeting.
+    July 2021; virtual.
+* Billings WZ, Handel A.
+    How does pre-existing immunity interact with other factors to impact
+    influenza vaccine responses? Talk presented at the NIH CIVR-HRP
+    annual meeting.
+    May 2021; virtual.
+
+RESEARCH EXPERIENCE
+-------------------
+* Graduate research assistant
+    2020 - present; University of Georgia
+    Adviser: Andreas Handel
+* On-line Encyclopedia of Integer Sequences
+    Authored two sequences (A319302; A309092)
+    Contributed to one sequence (A110529)
+* Population Biology of Infectious Disease REU participant
+    May 2019 - July 2019; University of Georgia
+    Mentors: Andreas Handel and Brian McKay
+* Math-Biology REU participant
+    May 2018 - July 2018; University of North Carolina, Greensboro
+    Mentors: Louis-Marie Bobay and Jonathan Rowell
+* Lab technician (and undergraduate researcher)
+    2018 - 2020; Western Carolina University
+    Adviser: Heather Coan
+    Thesis: Keratin modulation of autophagic flux in nutrient-deprived HEK-293
+            cells (avaiable upon request)
+
+TEACHING AND MENTORING
+----------------------
+* Programming workshops
+  - R and SAS primer, August 2021.
+    Organized and led a workshop introducing College of Public Health students
+    (MS, MPH, and PhD) to R and SAS statistical softwares.
+  - Data visualization using ggplot2, June 2021.
+    Led a workshop for 10 undergraduate participants in the Population Biology
+    of Infectious Disease REU program.
+* Undergraduate mentoring
+  - Population Biology of Infectious Disease REU Site
+    2021: co-mentored one undergraduate student, leading to an in-progress
+          manuscript (available upon request).
+* Lab assistant, MATH 340: Introduction to Scientific Computing
+    Spring 2019 - Spring 2020; Western Carolina University.
+* Course tutor
+    Spring 2017 - Spring 2019; Western Carolina University.
+    Individual and group tutoring for introductory biology, organic chemistry,
+    genetics, evolutionary biology, microscopy, and immunology.
+
+SERVICE
+-------
+* Graduate Scholars of Epidemiology and Biostatistics
+    Student organization in the Epid. & Bios. department focused on
+    facilitating faculty/student communication, and on community service.
+    - 2021 - 2022: President.
+* Curriculum committee, Department of Epidemiology & Biostatistics
+    - 2021 - 2022: Student representative.
+
+SKILLS
+------
+* Programming languages: R, python, MATLAB.
+* Software: Mathematica, Tableau, SAS, Microsoft Excel, Google Sheets.
+* Other computing skills: Git, LaTeX, HTML, CSS, Sass.
+* Data cleaning, wrangling, analysis, and modeling.
+
+COURSEWORK
+----------
+* Statistics (and biostatistics): regression and ANOVA; generalized linear
+    models; probability theory; mathematical statistics; longitudinal data
+    analysis; modern applied data analysis; visual data storytelling.
+* Epidemiology: cohort study design; case-control study design.
+* Mathematics: multivariate calculus; linear algebra; optimization; numerical
+    analysis; combinatorics; graph theory; differential equations; modeling.
+* Biology: cell and molecular biology; biochemistry; microscopy; immunology.
+* Other: teaching seminar; peer tutoring; philosophy of Lewis and Tolkien.
