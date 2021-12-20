@@ -2,7 +2,7 @@
 aliases: [CIVIC-2021]
 projects: [flu-immunology]
 authors: [admin]
-abstract_short: ""
+abstract: Post-vaccination fold change in HAI titer (a correlate of protection for influenza immunity) appears to have a negative linear relationship with pre-vaccination titer. However, the effect of vaccine dose does not appear to be consistent with mechanistic model predictions, and we also notice an effect of age, which is not accounted for by previous models.
 date: 2016-06-24T00:00:00
 event: EEID, 2021
 image:

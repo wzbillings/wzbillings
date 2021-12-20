@@ -2,7 +2,7 @@
 aliases: [EEID-2021]
 projects: [flu-immunology]
 authors: [admin]
-abstract: A workshop on visualizing your data with ggplot2 and matplotlib
+abstract: Mechanistic models suggest that fold change in flu immunity after vaccination should be linearly decreasing with pre-vaccination immunity. However, these models do not account for host factors, such as age. We found that mechanistic model predictions were sometimes supported by the data, and we are working to explore when they are and are not.
 abstract_short: ""
 date: 2016-06-24T00:00:00
 event: EEID, 2021
