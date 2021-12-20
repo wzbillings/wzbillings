@@ -73,15 +73,3 @@ user_groups:
 I am currently a PhD student working with [Andreas Handel](http://handelgroup.publichealth.uga.edu/) at the University of Georgia (Department of Epidemiology & Biostatistics). My main skills are R programming, scientific computing, and data analysis. Previously, I obtained my undergraduate degree in mathematics and biology at Western Carolina University, where my research primarily focused on modulation of the autophagy pathway by keratin proteins. Now I have transitioned to more theoretical work, focusing on data analytics related to the seasonal influenza vaccine. In the past, I participated in two REU programs, [Math-Biology at UNCG](http://www.uncg.edu/mat/bio-math/REU/people.html) and [Population Biology of Infectious Diseases at UGA](http://reu.ecology.uga.edu/). At UGA (in Summer 2019), I worked with Andreas for the first time, and he apparently liked my work enough to let me work with him for my PhD. 
 
 Now I am primarily interested in influenza epidemiology and the seasonal influenza vaccine. Current research projects include investigating the drivers of immune response to the influenza vaccine at the individual level and examining patient and clinician agreement on reporting of influenza symptoms. I am also passionate about statistical methodology--linear models are my favorite. You can see my publications, previous projects, and presentations on this website, and if you want you can check out my GitHub or CV for more information about me.
-
-
-{% comment %}
-This website is still under construction, so expect updates! Things I am currently working on:
-
-* Updating projects
-* Updating CV and converting from manually edited files to the new cool data-driven CVs everyone else seems to have
-* Fixing up a bunch of stuff that makes sense to me but is completely unreadable to everyone else
-* Exporting high-res thumbnail images
-* Revising bio and moving content around
-* Starting a BLOG!
-{% endcomment %}
