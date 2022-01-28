@@ -1,6 +1,6 @@
 ### WELCOME to my GitHub!
 
-* My name is Zane
+* My name is Zane and I use he/him pronouns
 * PhD student at the University of Georgia
 * I love 😍 flu 😷 and vaccines 💉
 * Certified to distinguish between 🐻 black and grizzly bears 🐻 in the state of Montana
