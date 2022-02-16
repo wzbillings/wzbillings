@@ -12,7 +12,6 @@ authors:
 - Velasquez-Berroteran A
 - Zamagias E
 date: "2020-10-16"
-url: "https://ir.library.illinoisstate.edu/spora/vol8/iss1/3"
 featured: false
 image:
   caption: 'One of the proof parts that I wrote!'
@@ -40,3 +39,5 @@ url_video: ""
 ---
 
 This is a paper that I contribute to during my undergrad math degree at Western Carolina University. Remember that in math papers, the authors are alphabetical, and we all contributed equally to the paper.
+
+You can find the paper [online here](https://ir.library.illinoisstate.edu/spora/vol8/iss1/3).
