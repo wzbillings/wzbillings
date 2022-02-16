@@ -12,7 +12,7 @@ authors:
 - Velasquez-Berroteran A
 - Zamagias E
 date: "2020-10-16"
-doi: "https://ir.library.illinoisstate.edu/spora/vol8/iss1/3"
+url: "https://ir.library.illinoisstate.edu/spora/vol8/iss1/3"
 featured: false
 image:
   caption: 'One of the proof parts that I wrote!'
