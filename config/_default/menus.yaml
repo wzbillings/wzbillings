@@ -16,6 +16,12 @@ main:
   - name: Publications
     url: 'pubs/'
     weight: 50
+  - name: Now
+    url: 'now/'
+    weight: 51
+  - name: Uses
+    url: 'uses/'
+    weight: 52
   - name: Other
     url: 'other/'
     weight: 60
