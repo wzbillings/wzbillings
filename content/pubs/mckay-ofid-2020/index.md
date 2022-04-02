@@ -8,7 +8,7 @@ authors:
 - Shen Y
 - Handel A
 date: "2020-10-16"
-doi: "https://doi.org/10.1093/ofid/ofaa494"
+doi: "10.1093/ofid/ofaa494"
 featured: true
 image:
   caption: 'Scatterplot showing time since symptom onset on the y-axis and log10 relative viral load on the x-axis. There is a slight negative trend, although the confidence interval about the regression line is quite wide.'

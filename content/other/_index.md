@@ -2,8 +2,8 @@
 
 ## CV
 
-* PDF link: [here](/CV/Billings-CV.txt).
-* ASCII link: [here](/CV/Billings-CV.pdf).
+* PDF link: [here](/CV/Billings-CV.pdf).
+* ASCII link: [here](/CV/Billings-CV.txt).
 
 ## Teaching experience
 
