@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#'
     weight: 01
+  - name: Blog
+    url: 'https://blog.wzbillings.com/'
+    weight: 02
   - name: Projects
     url: 'projects/'
     weight: 30
