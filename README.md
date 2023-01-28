@@ -6,15 +6,19 @@
 [![GitHub: wzbillings](https://img.shields.io/badge/-wzbillings-black?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/wzbillings/)](https://www.linkedin.com/in/wzbillings/)
 ![](https://komarev.com/ghpvc/?username=wzbillings&style=flat-square&color=blue)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wzbillings&show_icons=true&theme=cobalt" alt="GitHub stats" />
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=wzbillings&show_icons=true&theme=cobalt" alt="GitHub stats" />
 
 ### About me
 
 * I'm currently a PhD student at the University of Georgia. I work on flu epidemiology and immunology, supervised by [Andreas Handel](https://andreashandel.com).
 * I'm a *computational epidemiologist*. My official degree name is "Epidemiology & Biostatistics with an emphasis in Data Analysis and Modeling".
-* Outside of work, I like reading, some video games, baking, and occasionally hiking.
+* Outside of work, I like reading fantasy and horror novels (AKA stats books); some video games; cooking and/or baking; and occasionally hiking.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzbillings&theme=cobalt" alt="Top languages" />
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzbillings&theme=cobalt&layout=compact" alt="Top languages" />
+
+
+
+
 
 ### Skills, etc.
 
