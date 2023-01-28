@@ -4,7 +4,6 @@
 [![@wzbillings@fediscience.org](https://img.shields.io/badge/-@wzbillings@fediscience.org-6364ff?style=flat-square&logo=Mastodon&logoColor=white&link=https://fediscience.org/@wzbillings)](https://fediscience.org/@wzbillings)
 [![Linkedin: wzbillings](https://img.shields.io/badge/-wzbillings-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wzbillings/)](https://www.linkedin.com/in/wzbillings/)
 [![GitHub: wzbillings](https://img.shields.io/badge/-wzbillings-black?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/wzbillings/)](https://www.linkedin.com/in/wzbillings/)
-![](https://komarev.com/ghpvc/?username=wzbillings&style=flat-square&color=blue)
 
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=wzbillings&show_icons=true&theme=cobalt" alt="GitHub stats" />
 
