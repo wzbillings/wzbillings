@@ -29,7 +29,7 @@ Here's some things I know how to do.
 
 ### Highlighted work
 
-If you want to see some of my projects, I recommend these.
+If you want to see some of my projects, see my **pinned posts** below! For a directory of my work by subject, you can check [here](LIST.md).
 
 
 <!-- TODO https://github.com/anmol098/waka-readme-stats https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/K-Kraken.md -->
