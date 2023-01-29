@@ -1,6 +1,7 @@
 ## (W.) Zane Billings
 
 [![https://wzbillings.com](https://img.shields.io/badge/website-wzbillings.com-brightgreen?style=flat-square&link=https://wzbillings.com)](https://wzbillings.com)
+[![Resume](https://img.shields.io/badge/-resume-blueviolet?style=flat-square&logoColor=white&link=https://github.com/wzbillings/wzbillings/blob/main/RESUME.md)](RESUME.md)
 [![@wzbillings@fediscience.org](https://img.shields.io/badge/-@wzbillings@fediscience.org-6364ff?style=flat-square&logo=Mastodon&logoColor=white&link=https://fediscience.org/@wzbillings)](https://fediscience.org/@wzbillings)
 [![Linkedin: wzbillings](https://img.shields.io/badge/-wzbillings-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wzbillings/)](https://www.linkedin.com/in/wzbillings/)
 [![GitHub: wzbillings](https://img.shields.io/badge/-wzbillings-black?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/wzbillings/)](https://www.linkedin.com/in/wzbillings/)
