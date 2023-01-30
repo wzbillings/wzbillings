@@ -32,7 +32,7 @@
 <!--
 <a href="https://codetrace.com/users/wzbillings"><img src="https://codetrace.com/widget/wzbillings" align = "right" width = "375em"/></a>
 -->
-* Tech stuff: SQL (MS SQL server), LaTeX, spreadsheets, Mathematica, MATLAB, Quarto (and R Markdown)
+* Tech stuff: Stan, SQL (MS SQL server), LaTeX, spreadsheets, Mathematica, MATLAB, Quarto (and R Markdown)
 * Stats stuff: mixed-effects linear (regression) models, machine learning / predictive analytics, data visualization, exploratory data analysis, data cleaning and wrangling, statistical inference, Bayesian methods, time series analysis.
 
 ### Highlighted work
