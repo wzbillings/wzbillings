@@ -7,7 +7,9 @@
 [![ORCid](https://img.shields.io/badge/&zwnj;-0000--0002--0184--6134-A6CE39?style=flat-square&link=[https://orcid.org](https://orcid.org/0000-0002-0184-6134)&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAWlBMVEUAAACmzjmmzjmmzjmmzjmmzjmmzjmmzjmmzjmmzjmmzjmmzjmmzjmmzjms0UWx1FK311682mvC3XfH4IPN45DT55zY6qje7bXj8MHp887u9tr0+eb5/PP///9KxNBkAAAADXRSTlMAECAwQFBggJ+vv8/v5QYEcAAAAblJREFUeNpiwAUAxZeFtsMgDEDpq0tY3fn/33ywMyMrazK9Ryfc0hAgCeI0hxN5GgeCgxelcEcaeYJGkICDxKcMz+ABWbA3+QR2SB6+SFjALkUonCRAInFNPwciucceTzB4BTAoPMLzeXO4GV92NcXgjH+jlBq5axHClVVpStgndARQGSpOIFECjXr8KlkJFcAtcpjGEkgEJ0EGT5KJIz48TbC1hQ5VVZVgqG4pnVHwwKbTQZzAoGzGRgLGLEREFGjWDhCRFqRkgWZGb5JqATwUtJWh7vrpNAlkQEmABFZKym49Gg5oHWKiQCNHdfrtSixSskAzKE1jByHnCOSiv1rsYwE4Aqju9jpTAGYK/SuC3vz6iqA2K8kXoCD8VFBjwetBzPnLOFiJlPITqbZSOWYJJryKMWE7o99Uh45VsuA0fkYHikipgsOEjqTTkRZRBLJq9XAUQU3EOda3jkRPaBK6YJRb12tAFKxDBQh/63JtpmnqwTDd0HeV83IVwUt3K4oCh8RZI/JrxRCeIGSU2YSSOwcm+eul7mvF9t/r5f7rDcfrLc/rTdfrbd9Ljacb3936Bp9vvvnt/z8yrsFZJYlgUAAAAABJRU5ErkJggg==)](https://orcid.org/0000-0002-0184-6134)
 [![Gmail](https://img.shields.io/badge/-wz.billings@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:wz.billings@gmail.com)
 
+<!--
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=wzbillings&show_icons=true&theme=cobalt" alt="GitHub stats" />
+-->
 
 ### About me
 
@@ -37,7 +39,7 @@
 
 ### Highlighted work
 
-If you want to see some of my projects, see my **pinned posts** below! For a directory of my work by subject, you can check [here](LIST.md).
+If you want to see some of my projects, see my **pinned posts** below! <!--For a directory of my work by subject, you can check [here](LIST.md).-->
 
 
 <!-- TODO https://github.com/anmol098/waka-readme-stats  -->
