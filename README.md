@@ -14,7 +14,7 @@
 ### About me
 
 * I'm currently a PhD student at the University of Georgia. I work on flu epidemiology and immunology, supervised by [Andreas Handel](https://andreashandel.com).
-* I'm a *computational epidemiologist*. My official degree name is "Epidemiology & Biostatistics with an emphasis in Data Analysis and Modeling".
+* I'm a *computational epidemiologist*. My official degree name is "Epidemiology & Biostatistics with an emphasis in Data Analysis and Modeling". My primary interests are bayesian hierarchical models and influenza immunology.
 <!--
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzbillings&theme=cobalt&layout=compact" alt="Top languages" />
 -->
