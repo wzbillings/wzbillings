@@ -14,8 +14,8 @@
 
 ### About me
 
-* I'm currently a PhD student at the University of Georgia. I work on flu epidemiology and immunology, supervised by [Andreas Handel](https://andreashandel.com).
-* I'm a *computational epidemiologist*. My official degree name is "Epidemiology & Biostatistics with an emphasis in Data Analysis and Modeling". My primary interests are bayesian hierarchical models and influenza immunology.
+* I just defended my PhD dissertation (successfully) at the University of Georgia. I work on flu epidemiology and immunology, supervised by [Andreas Handel](https://andreashandel.com).
+* I'm a *data scientist*, formerly *computational epidemiologist*. My official degree name is "Epidemiology & Biostatistics with an emphasis in Data Analysis and Modeling". My primary interests are observational study statistics, bayesian hierarchical models, and influenza vaccine immunology.
 <!--
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzbillings&theme=cobalt&layout=compact" alt="Top languages" />
 -->
@@ -29,14 +29,18 @@
 
 ### Skills, etc.
 
+<!--
 <img height="32" width="32" src="https://cdn.simpleicons.org/R/276DC3"/>: `ggplot2`, `tidyverse`, `tidymodels`, `data.table`, `lme4`, `nlme`, `brms`
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/Python/3776AB"/>: `PyTorch`, `matplotlib`, `statsmodels`, `scikit-learn`
+-->
 <!--
 <a href="https://codetrace.com/users/wzbillings"><img src="https://codetrace.com/widget/wzbillings" align = "right" width = "375em"/></a>
 -->
+* R: base, tidyverse, ggplot2, tidymodels, lme4, nlme, mgcv, brms
+* Python: base, matplotlib, statsmodels, scikit-learn
 * Tech stuff: Stan, LaTeX, spreadsheets, Quarto (and R Markdown)
-* Stats stuff: mixed-effects linear (regression) models, machine learning / predictive analytics, data visualization, exploratory data analysis, data cleaning and wrangling, statistical inference, Bayesian methods.
+* Stats stuff: (bayesian) mixed-effects models, machine learning / predictive analytics, data visualization, exploratory data analysis, data cleaning and wrangling, statistical inference, Bayesian methods
 
 ### Highlighted work
 
