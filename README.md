@@ -41,10 +41,9 @@
 * Python: base, matplotlib, statsmodels, scikit-learn
 * Tech stuff: Stan, LaTeX, spreadsheets, Quarto (and R Markdown)
 * Stats stuff: (bayesian) mixed-effects models, machine learning / predictive analytics, data visualization, exploratory data analysis, data cleaning and wrangling, statistical inference, Bayesian methods
-
+<!--
 ### Highlighted work
 
 If you want to see some of my projects, see my **pinned posts** below! <!--For a directory of my work by subject, you can check [here](LIST.md).-->
-
 
 <!-- TODO https://github.com/anmol098/waka-readme-stats  -->
