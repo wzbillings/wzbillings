@@ -1,4 +1,4 @@
-## (W.) Zane Billings
+## (W.) Zane Billings, Ph.D.
 
 [![https://wzbillings.com](https://img.shields.io/badge/website-wzbillings.com-brightgreen?style=flat-square&link=https://wzbillings.com)](https://wzbillings.com)
 [![@wzbillings@fediscience.org](https://img.shields.io/badge/-@wzbillings@fediscience.org-6364ff?style=flat-square&logo=Mastodon&logoColor=white&link=https://fediscience.org/@wzbillings)](https://fediscience.org/@wzbillings)
