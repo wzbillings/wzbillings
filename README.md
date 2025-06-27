@@ -1,7 +1,6 @@
 ## (W.) Zane Billings, Ph.D.
 
 [![https://wzbillings.com](https://img.shields.io/badge/website-wzbillings.com-brightgreen?style=flat-square&link=https://wzbillings.com)](https://wzbillings.com)
-[![LinkedIn: wzbillings](https://img.shields.io/badge/LinkedIn-wzbillings-blue?style=flat-square&link=https://www.linkedin.com/in/wzbillings/)](https://www.linkedin.com/in/wzbillings/)
 [![Email](https://img.shields.io/badge/Email-wzbillings@proton.me-7c5cff?style=flat-square&link=mailto:wzbillings@proton.me)](mailto:wzbillings@proton.me)
 
 
