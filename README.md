@@ -19,10 +19,8 @@
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzbillings&theme=cobalt&layout=compact" alt="Top languages" />
 -->
 
-### About me
-
-* I'm a data scientist at State Farm with a PhD in Epidemiology and Biostatistics. I work on an internal Design of Experiments team.
-* My work blends DoE, causal inference, and communication skills to turn data into business knowledge.
+* I'm a data scientist at State Farm with a PhD in Epidemiology and Biostatistics.
+* My work blends design of experiments, causal inference, and communication skills to turn data into business knowledge.
 * Outside of work, I like reading fantasy and horror novels (AKA stats books); some video games; cooking and/or baking; and occasionally hiking.
 
 
@@ -30,9 +28,10 @@
 
 
 
+<!--
 
 ### Skills, etc.
-
+-->
 <!--
 <img height="32" width="32" src="https://cdn.simpleicons.org/R/276DC3"/>: `ggplot2`, `tidyverse`, `tidymodels`, `data.table`, `lme4`, `nlme`, `brms`
 
@@ -41,10 +40,14 @@
 <!--
 <a href="https://codetrace.com/users/wzbillings"><img src="https://codetrace.com/widget/wzbillings" align = "right" width = "375em"/></a>
 -->
+
+<!--
 * R: base, tidyverse, ggplot2, tidymodels, lme4, nlme, mgcv, brms
 * Python: base, matplotlib, statsmodels, scikit-learn
 * Tech stuff: Stan, LaTeX, spreadsheets, Quarto (and R Markdown)
 * Stats stuff: (bayesian) mixed-effects models, machine learning / predictive analytics, data visualization, exploratory data analysis, data cleaning and wrangling, statistical inference, Bayesian methods
+
+-->
 <!--
 ### Highlighted work
 
