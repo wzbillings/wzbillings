@@ -21,8 +21,8 @@
 
 ### About me
 
-* I just defended my PhD dissertation (successfully) at the University of Georgia. I work on flu epidemiology and immunology, supervised by [Andreas Handel](https://andreashandel.com).
-* I'm a *data scientist*, formerly *computational epidemiologist*. My official degree name is "Epidemiology & Biostatistics with an emphasis in Data Analysis and Modeling". My primary interests are observational study statistics, bayesian hierarchical models, and influenza vaccine immunology.
+* I'm a data scientist at State Farm with a PhD in Epidemiology and Biostatistics. I work on an internal Design of Experiments team.
+* My work blends DoE, causal inference, and communication skills to turn data into business knowledge.
 * Outside of work, I like reading fantasy and horror novels (AKA stats books); some video games; cooking and/or baking; and occasionally hiking.
 
 
