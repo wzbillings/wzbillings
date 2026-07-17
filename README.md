@@ -5,3 +5,4 @@
 
 * I'm a data scientist at State Farm with a PhD in Epidemiology and Biostatistics.
 * My work blends design of experiments, causal inference, and communication skills to turn data into business knowledge.
+* In my former life, I studied influenza epidemiology and evolution, focused on measuring antigenic distance and understanding how antigenic distance affects vaccine protection.
